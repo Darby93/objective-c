@@ -1,7 +1,7 @@
 #import <Foundation/Foundation.h>
 #import "Rectangle.h"
 #import "Square.h"
-
+// ㅅㄷㄴㅅ
 int main(int argc, const char * argv[])
 {
     
